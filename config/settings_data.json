@@ -1,0 +1,1256 @@
+{
+    "current": {
+      "color_header_bg": "#000000",
+      "color_header_links": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_content_bg": "#ffffff",
+      "color_body_headings": "#222222",
+      "color_body_text": "#666666",
+      "color_button_bg": "#e30312",
+      "color_button_text": "#ffffff",
+      "color_footer_bg": "#222222",
+      "color_footer_text": "#ffffff",
+      "color_hero_text": "#ffffff",
+      "color_hero_bg": "#e30312",
+      "type_accent_family": "open_sans_condensed_n7",
+      "type_accent_spacing": false,
+      "type_accent_transform": true,
+      "type_base_family": "open_sans_n4",
+      "type_base_size": "17px",
+      "type_nav_size": "14px",
+      "type_nav_spacing": true,
+      "type_nav_transform": true,
+      "product_images_padding": true,
+      "product_vendor_enable": false,
+      "share_image": "",
+      "social_facebook_link": "https:\/\/www.facebook.com\/dreamchasersgarage",
+      "social_twitter_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "https:\/\/www.instagram.com\/dreamchasersgarage",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#d8232f",
+      "checkout_button_color": "#d8232f",
+      "checkout_error_color": "#e32c2b",
+      "checkout_banner_background_color": "#fff",
+      "checkout_call_to_action_color": "#d8232f",
+      "checkout_use_header_image": false,
+      "color_newsletter_input": "#303030",
+      "sections": {
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1274583e-2033-47f1-aad4-895b1529bb4f": {
+              "type": "text",
+              "settings": {
+                "title": "Legal",
+                "text": "<p><a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">Terms of Service<\/a><\/p><p><a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Return Policy<\/a><\/p>"
+              }
+            },
+            "ffba8c46-57a2-4d5b-b835-a432225fff9b": {
+              "type": "social",
+              "settings": {
+                "title": "Follow us",
+                "align": "left"
+              }
+            },
+            "48c6a10a-df94-4175-9e05-fe96366dbda8": {
+              "type": "text",
+              "settings": {
+                "title": "Contact us",
+                "text": "<p><strong>Phone:<\/strong> <a title=\"Call at +1 425-405-0812\" href=\"tel:+14254050812\">+1 (425) 405-0812<\/a><\/p><p><strong>Email:<\/strong> <a title=\"Mail to info@dreamchasersgarage.com\" href=\"mailto:info@dreamchasersgarage.com\">info@dreamchasersgarage.com<\/a><\/p><p><strong>Address:<\/strong> 12310 Hwy 99 Suite 115, Everett, WA 98204, United States<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "1274583e-2033-47f1-aad4-895b1529bb4f",
+            "ffba8c46-57a2-4d5b-b835-a432225fff9b",
+            "48c6a10a-df94-4175-9e05-fe96366dbda8"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        },
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "collection": "frontpage",
+            "rows": 2
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/logo_a623b5b8-bdf8-47af-89a0-25c0efdf9c7b.png",
+            "logo_max_width": "250",
+            "main_linklist": "main-menu",
+            "promo_bar_enable": false,
+            "promo_bar_text": ""
+          }
+        },
+        "collection-filters": {
+          "type": "collection-filters",
+          "settings": {
+            "product_tags_enable": true,
+            "product_sorting_enable": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "placeholder-0": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/IMG_8968.jpg",
+                "image_position": "center center",
+                "title": "STI Racecar",
+                "button_label": "View all products",
+                "button_link": ""
+              }
+            },
+            "placeholder-1": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/IMG_8954.jpg",
+                "image_position": "center center",
+                "title": "STI Racecar",
+                "button_label": "View all products",
+                "button_link": ""
+              }
+            },
+            "1594428317091": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/IMG_8964.jpg",
+                "image_position": "center center",
+                "title": "STI Racecar",
+                "button_label": "View all products",
+                "button_link": ""
+              }
+            },
+            "1594428326576": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/IMG_8955.jpg",
+                "image_position": "center center",
+                "title": "STI Racecar",
+                "button_label": "View all products",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "placeholder-0",
+            "placeholder-1",
+            "1594428317091",
+            "1594428326576"
+          ],
+          "settings": {
+            "hero_home_height": "small",
+            "hero_home_auto": false,
+            "hero_home_auto_speed": 5
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "display_type": "all",
+            "layout": "grid",
+            "sort": "alphabetical"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "enable_ajax": true,
+            "stock_enable": true,
+            "enable_payment_button": true,
+            "social_sharing_products": true
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "heading": "You may also like"
+          }
+        },
+        "1602769371930": {
+          "type": "slideshow",
+          "blocks": {
+            "1602769371930-0": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/D4F7C084-70AD-4388-B965-D755760836DB.jpg",
+                "image_position": "center center",
+                "title": "Exhaust Systems",
+                "button_label": "View all exhaust and muffler products",
+                "button_link": "shopify:\/\/collections\/exhaust-mufflers-tips"
+              }
+            },
+            "1602769371930-1": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/9BD45D35-9092-4CB4-8A6A-F923B1FD8AE6.jpg",
+                "image_position": "center center",
+                "title": "Air Intake Systems",
+                "button_label": "Check out air intake products",
+                "button_link": "shopify:\/\/collections\/air-intake-systems"
+              }
+            },
+            "530115a3-0b78-4c72-8192-301dadffa40e": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/B0DF8089-C79B-4CA4-8DCA-E6774F6B012B.jpg",
+                "image_position": "center center",
+                "title": "Performance car service",
+                "button_label": "Get your car serviced",
+                "button_link": "shopify:\/\/pages\/contact-us"
+              }
+            },
+            "adec3313-9aab-47f6-9cd6-6701c5b104b3": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/65267EAD-6AAB-496D-9594-276C088FB43B.jpg",
+                "image_position": "center center",
+                "title": "Engine components",
+                "button_label": "A wide selection of engine products",
+                "button_link": "shopify:\/\/collections\/engine-components"
+              }
+            },
+            "20e7c6b2-5fba-4bf6-9470-6cf261780767": {
+              "type": "slide",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/267FF16B-04A5-4A40-B07A-D54631D7FBAB.jpg",
+                "image_position": "center center",
+                "title": "Get in touch with us today",
+                "button_label": "Contact us",
+                "button_link": "shopify:\/\/pages\/contact-us"
+              }
+            }
+          },
+          "block_order": [
+            "1602769371930-0",
+            "1602769371930-1",
+            "530115a3-0b78-4c72-8192-301dadffa40e",
+            "adec3313-9aab-47f6-9cd6-6701c5b104b3",
+            "20e7c6b2-5fba-4bf6-9470-6cf261780767"
+          ],
+          "settings": {
+            "hero_home_height": "small",
+            "hero_home_auto": false,
+            "hero_home_auto_speed": 5
+          }
+        },
+        "1603170761983a54b6": {
+          "type": "brand-list",
+          "disabled": true,
+          "blocks": {
+            "1603170761983a54b6-0": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/fcf008917c5e8d857f08724fcd6c6312.jpg"
+              }
+            },
+            "1603170761983a54b6-1": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/21d49e43b44a4b692f9be8f4210ad100.jpg"
+              }
+            },
+            "1603170761983a54b6-2": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/3.png"
+              }
+            },
+            "1603170761983a54b6-3": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/d7e3bbb37fdcd6a37898fb3970fab7b4.jpg"
+              }
+            },
+            "1603170761983a54b6-4": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/61a7a438fab951ccb2d7d9d3860d4098.jpg"
+              }
+            },
+            "1603170761983a54b6-5": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/f0ed998999bff2662d05111aab1f06e5.jpg"
+              }
+            },
+            "1603170761983a54b6-6": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/f3a605e319483178f49d785c184fd2a6.jpg"
+              }
+            },
+            "737c4088-6f70-41d5-95ff-a80bc12e7a40": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/f35e88cf8ce17451ab75d6136e56545f.jpg"
+              }
+            },
+            "2069389b-65fa-4668-923f-1f1b21256747": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/9d179043b9f91cd75be107e50b72f59f_93f84d98-cfd0-40f7-8845-02742241c4ee.png"
+              }
+            },
+            "2b62c33a-72c9-4a2c-beaf-ed04707bfe9a": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/3d13af851dab3dd567cc1d16e2c607c2.jpg"
+              }
+            },
+            "9cb66b91-3c07-47f0-a3f7-37ef4224ad3c": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/55b56d746604022559fa8df06269029a.jpg"
+              }
+            },
+            "ca6b2a64-0e55-44d2-82d7-a07b0a033ba8": {
+              "type": "logo",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/2fdcab803013a5112223230a0b6f4c9b.jpg"
+              }
+            }
+          },
+          "block_order": [
+            "1603170761983a54b6-0",
+            "1603170761983a54b6-1",
+            "1603170761983a54b6-2",
+            "1603170761983a54b6-3",
+            "1603170761983a54b6-4",
+            "1603170761983a54b6-5",
+            "1603170761983a54b6-6",
+            "737c4088-6f70-41d5-95ff-a80bc12e7a40",
+            "2069389b-65fa-4668-923f-1f1b21256747",
+            "2b62c33a-72c9-4a2c-beaf-ed04707bfe9a",
+            "9cb66b91-3c07-47f0-a3f7-37ef4224ad3c",
+            "ca6b2a64-0e55-44d2-82d7-a07b0a033ba8"
+          ],
+          "settings": {
+            "title": "TOP DCG BRANDS"
+          }
+        },
+        "160317167132a47620": {
+          "type": "advanced-content",
+          "blocks": {
+            "160317167132a47620-0": {
+              "type": "html",
+              "settings": {
+                "code": "<div class=\"footer-mail-social\">\n<div class=\"footer-mail\">\n                        <h4>CONTACT US<\/h4>\n                        <p>Email our team of DCG experts to discuss your next order.<\/p>\n                        <a href=\"mailto:info@dreamchasersgarage.com\" class=\"sim-button\"><i class=\"fas fa-envelope\"><\/i> EMAIL US<\/a>\n  <\/div>                  <\/div>",
+                "width": "33%",
+                "alignment": "top-middle"
+              }
+            },
+            "b2746e2a-709d-407d-a3b7-bcf74c9c989b": {
+              "type": "html",
+              "settings": {
+                "code": "<div class=\"footer-mail-social\">\n<div class=\"footer-mail\">\n                        <h4>FACEBOOK<\/h4>\n                        <p>Like our Facebook page and connect with other DCG fans.<\/p>\n                        <a href=\"https:\/\/www.facebook.com\/dreamchasersgarage\" class=\"sim-button\"><i class=\"fab fa-facebook-f\"><\/i> LIKE DCG<\/a>\n                    <\/div>\n<\/div>",
+                "width": "33%",
+                "alignment": "top-middle"
+              }
+            },
+            "14a2eca0-34ea-4a09-894d-cfc3549963f2": {
+              "type": "html",
+              "settings": {
+                "code": "<div class=\"footer-mail-social\">\n<div class=\"footer-mail\">\n                        <h4>INSTAGRAM<\/h4>\n                        <p>Follow our Instagram feed for the latest in United States.<\/p>\n                        <a href=\"https:\/\/www.instagram.com\/dreamchasersgarage\" class=\"sim-button\"><i class=\"fab fa-instagram\"><\/i> FOLLOW US<\/a>\n                    <\/div>\n<\/div>",
+                "width": "33%",
+                "alignment": "top-middle"
+              }
+            }
+          },
+          "block_order": [
+            "160317167132a47620-0",
+            "b2746e2a-709d-407d-a3b7-bcf74c9c989b",
+            "14a2eca0-34ea-4a09-894d-cfc3549963f2"
+          ],
+          "settings": {
+          }
+        },
+        "16031899059d8b3c8c": {
+          "type": "advanced-content",
+          "blocks": {
+            "16031899059d8b3c8c-0": {
+              "type": "html",
+              "settings": {
+                "code": "<div class=\"apool-banner style1\">\n                    <div class=\"banner-inner\">\n                        <figure class=\"banner-thumb\">\n                            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0332\/3215\/8851\/files\/banner1.jpg?v=1603182442\" alt=\"\">\n                        <\/figure>\n                        <div class=\"banner-info\">\n                            <div class=\"banner-content\">\n                                <h6 class=\"banner-cat\"> TOP STAFF PICK<\/h6>\n                                <h3 class=\"title\"> Performance parts<\/h3>\n                                <h4 class=\"title-hightlight\"> <\/h4>\n                                <div class=\"desc\"> \n                                    Shop<strong> Engine performance, Steering Components, <\/strong><br> <strong>wheels<\/strong> and more\n                                <\/div> \n                                <a class=\"btn sim-button\" href=\"\/collections\">SHOP NOW<\/a>\n                            <\/div>\n                        <\/div>\n                    <\/div>\n                <\/div>",
+                "width": "50%",
+                "alignment": "top-middle"
+              }
+            },
+            "8fc7d162-b589-40f2-8745-ba99a6914ead": {
+              "type": "html",
+              "settings": {
+                "code": "<div class=\"apool-banner style1\">\n                    <div class=\"banner-inner\">\n                        <figure class=\"banner-thumb\">\n                            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0332\/3215\/8851\/files\/banner2.jpg?v=1603190361\" alt=\"\">\n                        <\/figure>\n                        <div class=\"banner-info\">\n                            <div class=\"banner-content\">\n                                <h6 class=\"banner-cat\"> BEST SELLER<\/h6>\n                                <h3 class=\"title\"> PERFORMANCE PARTS<\/h3>\n                                <h4 class=\"title-hightlight\"> &amp; ACCESSORIES<\/h4>\n                                <div class=\"desc\"> \n                                        Find the right<strong> suspension, exhaust, brakes, <\/strong><br> <strong>filters, <\/strong> &amp; more\n                                <\/div> \n                                <a class=\"btn sim-button\" href=\"\/collections\">SHOP NOW<\/a>\n                            <\/div>\n                        <\/div>\n                    <\/div>\n                <\/div>",
+                "width": "50%",
+                "alignment": "top-middle"
+              }
+            }
+          },
+          "block_order": [
+            "16031899059d8b3c8c-0",
+            "8fc7d162-b589-40f2-8745-ba99a6914ead"
+          ],
+          "settings": {
+          }
+        },
+        "brand-page": {
+          "type": "brand-page",
+          "blocks": {
+            "0159d7aa-c16b-44b9-9902-3ea7f35d3c6a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/acl",
+                "logo_picker": "shopify:\/\/shop_images\/ACL.png",
+                "img_alt": "ACL"
+              }
+            },
+            "1eda0858-489f-441a-b8af-51254a1b90c8": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/aem",
+                "logo_picker": "shopify:\/\/shop_images\/AEM-logo.png",
+                "img_alt": "AEM"
+              }
+            },
+            "4f4c4b16-dfe0-49df-9b80-b213e097d06c": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/aem-induction",
+                "logo_picker": "shopify:\/\/shop_images\/AEM_Induction.png",
+                "img_alt": "AEM Induction"
+              }
+            },
+            "6b80c3fd-ece0-43e3-9dac-4f77786e145f": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/ams",
+                "logo_picker": "shopify:\/\/shop_images\/fcf008917c5e8d857f08724fcd6c6312.jpg",
+                "img_alt": "AMS"
+              }
+            },
+            "655e3c59-4b8e-4564-9ed3-0ec421c42134": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/arp",
+                "logo_picker": "shopify:\/\/shop_images\/arp.jpg",
+                "img_alt": "ARP"
+              }
+            },
+            "23b91d16-5a35-44c6-af13-4af34950e262": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/advan",
+                "logo_picker": "shopify:\/\/shop_images\/advan.png",
+                "img_alt": "Advan"
+              }
+            },
+            "49675189-8097-4cf0-b0b6-62f8cb8c7e3e": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/advanced-clutch",
+                "logo_picker": "shopify:\/\/shop_images\/9d179043b9f91cd75be107e50b72f59f_93f84d98-cfd0-40f7-8845-02742241c4ee.png",
+                "img_alt": "Advanced Clutch"
+              }
+            },
+            "b4002995-1da2-4c60-a90a-dc0467eadf73": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/aeromotive",
+                "logo_picker": "shopify:\/\/shop_images\/Aeromotive.png",
+                "img_alt": "Aeromotive"
+              }
+            },
+            "e3fd3163-843d-48d6-a374-612085cae32f": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/air-lift",
+                "logo_picker": "shopify:\/\/shop_images\/air-lift-logo.png",
+                "img_alt": "Air Lift"
+              }
+            },
+            "cac3ca84-beba-4120-b2f8-2e404c70daff": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/alcon",
+                "logo_picker": "shopify:\/\/shop_images\/Alcon.png",
+                "img_alt": "Alcon"
+              }
+            },
+            "5afcd7d6-07b8-4efb-ab76-11ba143c5b50": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/anderson-composites",
+                "logo_picker": "shopify:\/\/shop_images\/Anderson_Composites.png",
+                "img_alt": "Anderson Composites"
+              }
+            },
+            "00f6f53f-bffd-46e3-a271-add56b5c5e6f": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/borgwarner",
+                "logo_picker": "shopify:\/\/shop_images\/Borg-Warner.png",
+                "img_alt": "BorgWarner"
+              }
+            },
+            "b876d285-460c-4a1e-8a45-d4f55199c621": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/borla",
+                "logo_picker": "shopify:\/\/shop_images\/Borla.png",
+                "img_alt": "Borla"
+              }
+            },
+            "7a681e1e-69c1-455f-a48a-bd4913e9e8aa": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/brian-crower",
+                "logo_picker": "shopify:\/\/shop_images\/BrianCrower.png",
+                "img_alt": "Brian Crower"
+              }
+            },
+            "7c7bc6b8-b816-458c-baa4-b24a87edec5e": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/comp-cams",
+                "logo_picker": "shopify:\/\/shop_images\/COMP-Cams-logo-2.png",
+                "img_alt": "COMP Cams"
+              }
+            },
+            "0a725300-9749-4083-ae8a-f2cc7e313a8e": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/corsa-performance",
+                "logo_picker": "shopify:\/\/shop_images\/CORSA_Performance.png",
+                "img_alt": "CORSA Performance"
+              }
+            },
+            "2dfe82c5-54bb-46e8-99f2-4e6787ceba61": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/cp-pistons",
+                "logo_picker": "shopify:\/\/shop_images\/CP_Pistons.png",
+                "img_alt": "CP Pistons"
+              }
+            },
+            "5d77ce2b-9f6a-4ca4-b446-be6361f65d35": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/csf",
+                "logo_picker": "shopify:\/\/shop_images\/csf-logo-3.png",
+                "img_alt": "CSF"
+              }
+            },
+            "2ca07461-75f0-4545-979c-0a241e645dec": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/carrillo",
+                "logo_picker": "shopify:\/\/shop_images\/Carrillo.png",
+                "img_alt": "Carrillo"
+              }
+            },
+            "fd8ff3e7-3b00-4ef6-8730-eca02ff9b371": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/clutch-masters",
+                "logo_picker": "shopify:\/\/shop_images\/Clutch_Masters.png",
+                "img_alt": "Clutch Masters"
+              }
+            },
+            "c1e09ba0-ff38-4a47-be1f-7533c1d6a5d4": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/cometic-gasket",
+                "logo_picker": "shopify:\/\/shop_images\/Cometic_Gasket.png",
+                "img_alt": "Cometic Gasket"
+              }
+            },
+            "07869efa-c6fb-49b1-bc69-b778caed7332": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/competition-clutch",
+                "logo_picker": "shopify:\/\/shop_images\/Competition_Clutch.jpg",
+                "img_alt": "Competition Clutch"
+              }
+            },
+            "1a891a61-1ce0-4c73-a4d5-dd99b8430ca8": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/deatschwerks",
+                "logo_picker": "shopify:\/\/shop_images\/DeatschWerks.png",
+                "img_alt": "DeatschWerks"
+              }
+            },
+            "1166942c-077a-4c50-b5f5-084a2be0bc56": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/defi",
+                "logo_picker": "shopify:\/\/shop_images\/Defi.png",
+                "img_alt": "Defi"
+              }
+            },
+            "e334de0f-6055-434b-a6ca-9eb29f7b3461": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/dream-chasers-garage",
+                "logo_picker": "shopify:\/\/shop_images\/logo_ed46f0a0-4b35-434b-839f-92c40ac9cbd1.png",
+                "img_alt": "Dream Chasers Garage"
+              }
+            },
+            "14fb5461-cf5e-45c2-9296-634b1921d9ca": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/driveshaft-shop",
+                "logo_picker": "shopify:\/\/shop_images\/Driveshaft_Shop.jpg",
+                "img_alt": "Driveshaft Shop"
+              }
+            },
+            "73eb468c-8405-4eeb-b958-8bba6a3aa74a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/eagle",
+                "logo_picker": "shopify:\/\/shop_images\/Eagle.png",
+                "img_alt": "Eagle"
+              }
+            },
+            "6eccc0d2-3d8d-4544-87a8-6bbfe535b1de": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/fluidampr",
+                "logo_picker": "shopify:\/\/shop_images\/Fluidampr.jpg",
+                "img_alt": "Fluidampr"
+              }
+            },
+            "3205f883-85e2-4835-9b4e-7f9624b4b516": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/garrett-turbos",
+                "logo_picker": "shopify:\/\/shop_images\/Garrett_Turbos.png",
+                "img_alt": "Garrett Turbos"
+              }
+            },
+            "e93e207e-5f4a-4189-aaa0-a2fc74f326ee": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/go-fast-bits",
+                "logo_picker": "shopify:\/\/shop_images\/Go_Fast_Bits.png",
+                "img_alt": "Go Fast Bits"
+              }
+            },
+            "4d62b4cb-435e-4e17-a5d5-eed00a854b2a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/greddy",
+                "logo_picker": "shopify:\/\/shop_images\/21d49e43b44a4b692f9be8f4210ad100.jpg",
+                "img_alt": "Greddy"
+              }
+            },
+            "11134d1f-ac3c-4585-ba74-e128bada79a4": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/green-filter",
+                "logo_picker": "shopify:\/\/shop_images\/Green_Filter.jpg",
+                "img_alt": "Green Filter"
+              }
+            },
+            "b931c8f1-eb3e-4373-bcad-b89527cdc473": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/grimmspeed",
+                "logo_picker": "shopify:\/\/shop_images\/GrimmSpeed.png",
+                "img_alt": "GrimmSpeed"
+              }
+            },
+            "1447b6c8-515a-4146-9b98-8ae1131e8959": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/hks",
+                "logo_picker": "shopify:\/\/shop_images\/7c72bd896892a3c9a7832589fbb627cc.jpg",
+                "img_alt": "HKS"
+              }
+            },
+            "883c3175-a951-4bd9-aea4-283dd2d8b1e0": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/injector-dynamics",
+                "logo_picker": "shopify:\/\/shop_images\/d7e3bbb37fdcd6a37898fb3970fab7b4.jpg",
+                "img_alt": "Injector Dynamics"
+              }
+            },
+            "b8a93001-16c6-4c9f-bf00-7d2edcf5476b": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/je-pistons",
+                "logo_picker": "shopify:\/\/shop_images\/JE_logo.png",
+                "img_alt": "JE Pistons"
+              }
+            },
+            "b069e28c-1916-4e9b-8005-708fc217731c": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/king-engine-bearings",
+                "logo_picker": "shopify:\/\/shop_images\/King_Engine_Bearings.png",
+                "img_alt": "King Engine Bearings"
+              }
+            },
+            "23a5300d-58aa-4a32-b4b4-be582a47ba1a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/koyo",
+                "logo_picker": "shopify:\/\/shop_images\/Koyo.jpg",
+                "img_alt": "Koyo"
+              }
+            },
+            "9d9c189b-4c93-451e-a6b8-a9921c915107": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/magnaflow",
+                "logo_picker": "shopify:\/\/shop_images\/MagnaFlow.png",
+                "img_alt": "MagnaFlow"
+              }
+            },
+            "654528d3-44d8-40b2-b886-082468073d07": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/manley",
+                "logo_picker": "shopify:\/\/shop_images\/Manley.png",
+                "img_alt": "Manley"
+              }
+            },
+            "39e1b7d9-8dc5-4a3f-bbb7-80a93c7988b5": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/mcleod-industries",
+                "logo_picker": "shopify:\/\/shop_images\/Mcleod_Industries.png",
+                "img_alt": "Mcleod Industries"
+              }
+            },
+            "851dd5ef-c4cb-407f-9f15-a93f25ae6964": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/mishimoto",
+                "logo_picker": "shopify:\/\/shop_images\/Mishimoto.jpg",
+                "img_alt": "Mishimoto"
+              }
+            },
+            "8eaef145-d237-4f8c-aa7b-d771914fb30d": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/motul",
+                "logo_picker": "shopify:\/\/shop_images\/Motul.png",
+                "img_alt": "Motul"
+              }
+            },
+            "0eb9b226-fff8-43cf-86e3-ec238424792a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/os-giken",
+                "logo_picker": "shopify:\/\/shop_images\/55b56d746604022559fa8df06269029a.jpg",
+                "img_alt": "OS GIKEN"
+              }
+            },
+            "309e0c41-f103-4544-a52e-db5a5bd471fd": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/perrin",
+                "logo_picker": "shopify:\/\/shop_images\/Perrin.png",
+                "img_alt": "Perrin"
+              }
+            },
+            "186bcbe1-21c4-4639-a2eb-f21bdaea008a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/project-mu",
+                "logo_picker": "shopify:\/\/shop_images\/Project_Mu.png",
+                "img_alt": "Project Mu"
+              }
+            },
+            "19a341c0-a0ab-4615-9bfe-bd5f02c0d849": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/rays",
+                "logo_picker": "shopify:\/\/shop_images\/Rays.jpg",
+                "img_alt": "Rays"
+              }
+            },
+            "388cd05a-0d34-4083-bbe6-873645aca233": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/supertech",
+                "logo_picker": "shopify:\/\/shop_images\/Supertech.png",
+                "img_alt": "Supertech"
+              }
+            },
+            "13d33130-ab97-4941-aa89-3d1aff810e56": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/vibrant-performance",
+                "logo_picker": "shopify:\/\/shop_images\/Vibrant_Performance.jpg",
+                "img_alt": "Vibrant Performance"
+              }
+            }
+          },
+          "block_order": [
+            "0159d7aa-c16b-44b9-9902-3ea7f35d3c6a",
+            "1eda0858-489f-441a-b8af-51254a1b90c8",
+            "4f4c4b16-dfe0-49df-9b80-b213e097d06c",
+            "6b80c3fd-ece0-43e3-9dac-4f77786e145f",
+            "655e3c59-4b8e-4564-9ed3-0ec421c42134",
+            "23b91d16-5a35-44c6-af13-4af34950e262",
+            "49675189-8097-4cf0-b0b6-62f8cb8c7e3e",
+            "b4002995-1da2-4c60-a90a-dc0467eadf73",
+            "e3fd3163-843d-48d6-a374-612085cae32f",
+            "cac3ca84-beba-4120-b2f8-2e404c70daff",
+            "5afcd7d6-07b8-4efb-ab76-11ba143c5b50",
+            "00f6f53f-bffd-46e3-a271-add56b5c5e6f",
+            "b876d285-460c-4a1e-8a45-d4f55199c621",
+            "7a681e1e-69c1-455f-a48a-bd4913e9e8aa",
+            "7c7bc6b8-b816-458c-baa4-b24a87edec5e",
+            "0a725300-9749-4083-ae8a-f2cc7e313a8e",
+            "2dfe82c5-54bb-46e8-99f2-4e6787ceba61",
+            "5d77ce2b-9f6a-4ca4-b446-be6361f65d35",
+            "2ca07461-75f0-4545-979c-0a241e645dec",
+            "fd8ff3e7-3b00-4ef6-8730-eca02ff9b371",
+            "c1e09ba0-ff38-4a47-be1f-7533c1d6a5d4",
+            "07869efa-c6fb-49b1-bc69-b778caed7332",
+            "1a891a61-1ce0-4c73-a4d5-dd99b8430ca8",
+            "1166942c-077a-4c50-b5f5-084a2be0bc56",
+            "e334de0f-6055-434b-a6ca-9eb29f7b3461",
+            "14fb5461-cf5e-45c2-9296-634b1921d9ca",
+            "73eb468c-8405-4eeb-b958-8bba6a3aa74a",
+            "6eccc0d2-3d8d-4544-87a8-6bbfe535b1de",
+            "3205f883-85e2-4835-9b4e-7f9624b4b516",
+            "e93e207e-5f4a-4189-aaa0-a2fc74f326ee",
+            "4d62b4cb-435e-4e17-a5d5-eed00a854b2a",
+            "11134d1f-ac3c-4585-ba74-e128bada79a4",
+            "b931c8f1-eb3e-4373-bcad-b89527cdc473",
+            "1447b6c8-515a-4146-9b98-8ae1131e8959",
+            "883c3175-a951-4bd9-aea4-283dd2d8b1e0",
+            "b8a93001-16c6-4c9f-bf00-7d2edcf5476b",
+            "b069e28c-1916-4e9b-8005-708fc217731c",
+            "23a5300d-58aa-4a32-b4b4-be582a47ba1a",
+            "9d9c189b-4c93-451e-a6b8-a9921c915107",
+            "654528d3-44d8-40b2-b886-082468073d07",
+            "39e1b7d9-8dc5-4a3f-bbb7-80a93c7988b5",
+            "851dd5ef-c4cb-407f-9f15-a93f25ae6964",
+            "8eaef145-d237-4f8c-aa7b-d771914fb30d",
+            "0eb9b226-fff8-43cf-86e3-ec238424792a",
+            "309e0c41-f103-4544-a52e-db5a5bd471fd",
+            "186bcbe1-21c4-4639-a2eb-f21bdaea008a",
+            "19a341c0-a0ab-4615-9bfe-bd5f02c0d849",
+            "388cd05a-0d34-4083-bbe6-873645aca233",
+            "13d33130-ab97-4941-aa89-3d1aff810e56"
+          ],
+          "settings": {
+            "logoes_enable": true,
+            "title": "TOP DCG BRANDS"
+          }
+        },
+        "16068843214a38c0e0": {
+          "type": "brand-page",
+          "blocks": {
+            "3fe1e7ef-e4d3-49ca-aca6-610642d22604": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/ams",
+                "logo_picker": "shopify:\/\/shop_images\/fcf008917c5e8d857f08724fcd6c6312.jpg",
+                "img_alt": ""
+              }
+            },
+            "3f248172-b790-45bb-aa31-79fdb32ca271": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/greddy",
+                "logo_picker": "shopify:\/\/shop_images\/21d49e43b44a4b692f9be8f4210ad100.jpg",
+                "img_alt": "Greddy"
+              }
+            },
+            "c503410a-ec71-4eab-a793-321d21dbd6e5": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/arp",
+                "logo_picker": "shopify:\/\/shop_images\/3.png",
+                "img_alt": "ARP"
+              }
+            },
+            "719fd469-80fb-4b5f-a2fc-c1f6031a68d1": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/injector-dynamics",
+                "logo_picker": "shopify:\/\/shop_images\/d7e3bbb37fdcd6a37898fb3970fab7b4.jpg",
+                "img_alt": "injector Dynamics"
+              }
+            },
+            "841479d6-bb2c-4f56-9ace-0661a90d7443": {
+              "type": "select",
+              "settings": {
+                "logo_picker": "shopify:\/\/shop_images\/f0ed998999bff2662d05111aab1f06e5.jpg",
+                "img_alt": "Radium"
+              }
+            },
+            "b7c5aa5b-0646-400f-a37a-00639d3b4d30": {
+              "type": "select",
+              "settings": {
+                "logo_picker": "shopify:\/\/shop_images\/f3a605e319483178f49d785c184fd2a6.jpg",
+                "img_alt": "Rywire"
+              }
+            },
+            "bf3fe31b-c91a-421c-abf3-b9fad04cfd8e": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/advanced-clutch",
+                "logo_picker": "shopify:\/\/shop_images\/9d179043b9f91cd75be107e50b72f59f_93f84d98-cfd0-40f7-8845-02742241c4ee.png",
+                "img_alt": "ACT"
+              }
+            },
+            "2c026b6b-c20a-46a6-ba9c-80c6295230a0": {
+              "type": "select",
+              "settings": {
+                "logo_picker": "shopify:\/\/shop_images\/3d13af851dab3dd567cc1d16e2c607c2.jpg",
+                "img_alt": "Griot's Garage"
+              }
+            },
+            "66d4a09a-bd1d-41be-afc2-39d3cedddbbd": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/hks",
+                "logo_picker": "shopify:\/\/shop_images\/f35e88cf8ce17451ab75d6136e56545f.jpg",
+                "img_alt": "HKS"
+              }
+            },
+            "0b991409-f0d8-408e-80fe-0388b7405b7c": {
+              "type": "select",
+              "settings": {
+                "logo_picker": "shopify:\/\/shop_images\/2fdcab803013a5112223230a0b6f4c9b.jpg",
+                "img_alt": "sdafa"
+              }
+            },
+            "809a1a23-64d4-46b1-aed7-6f6d2198ca3c": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/os-giken",
+                "logo_picker": "shopify:\/\/shop_images\/55b56d746604022559fa8df06269029a.jpg",
+                "img_alt": "OS GIKEN"
+              }
+            },
+            "c9ef0f75-780b-4acc-9191-65954697d67a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/acl",
+                "logo_picker": "shopify:\/\/shop_images\/ACL.png",
+                "img_alt": "ACL"
+              }
+            },
+            "29d273e9-3b37-413a-98d1-6ba78d61bcb7": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/aem",
+                "logo_picker": "shopify:\/\/shop_images\/AEM-logo.png",
+                "img_alt": "AEM"
+              }
+            },
+            "f7df738a-e896-4a63-8ceb-5016e5e337e3": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/aem-induction",
+                "logo_picker": "shopify:\/\/shop_images\/AEM_Induction.png",
+                "img_alt": "AEM Induction"
+              }
+            },
+            "a2294be6-2264-4719-b590-d85bcaa23a58": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/advan",
+                "logo_picker": "shopify:\/\/shop_images\/advan.png",
+                "img_alt": "Advan"
+              }
+            },
+            "1104be52-be33-4b4b-ae18-e6a45167ef9a": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/aeromotive",
+                "logo_picker": "shopify:\/\/shop_images\/Aeromotive.png",
+                "img_alt": "Aeromotive"
+              }
+            },
+            "4fba4416-35c0-47ec-993f-52dc5ba22cd4": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/air-lift",
+                "logo_picker": "shopify:\/\/shop_images\/air-lift-logo.png",
+                "img_alt": "Air Lift"
+              }
+            },
+            "df17115f-ba1a-4b2c-986e-d93bf3decbaa": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/alcon",
+                "logo_picker": "shopify:\/\/shop_images\/Alcon.png",
+                "img_alt": "Alcon"
+              }
+            },
+            "2614a3a9-e631-481d-bd9a-8a787f482906": {
+              "type": "select",
+              "settings": {
+                "link": "shopify:\/\/collections\/anderson-composites",
+                "logo_picker": "shopify:\/\/shop_images\/Anderson_Composites.png",
+                "img_alt": "Anderson Composites"
+              }
+            }
+          },
+          "block_order": [
+            "3fe1e7ef-e4d3-49ca-aca6-610642d22604",
+            "3f248172-b790-45bb-aa31-79fdb32ca271",
+            "c503410a-ec71-4eab-a793-321d21dbd6e5",
+            "719fd469-80fb-4b5f-a2fc-c1f6031a68d1",
+            "841479d6-bb2c-4f56-9ace-0661a90d7443",
+            "b7c5aa5b-0646-400f-a37a-00639d3b4d30",
+            "bf3fe31b-c91a-421c-abf3-b9fad04cfd8e",
+            "2c026b6b-c20a-46a6-ba9c-80c6295230a0",
+            "66d4a09a-bd1d-41be-afc2-39d3cedddbbd",
+            "0b991409-f0d8-408e-80fe-0388b7405b7c",
+            "809a1a23-64d4-46b1-aed7-6f6d2198ca3c",
+            "c9ef0f75-780b-4acc-9191-65954697d67a",
+            "29d273e9-3b37-413a-98d1-6ba78d61bcb7",
+            "f7df738a-e896-4a63-8ceb-5016e5e337e3",
+            "a2294be6-2264-4719-b590-d85bcaa23a58",
+            "1104be52-be33-4b4b-ae18-e6a45167ef9a",
+            "4fba4416-35c0-47ec-993f-52dc5ba22cd4",
+            "df17115f-ba1a-4b2c-986e-d93bf3decbaa",
+            "2614a3a9-e631-481d-bd9a-8a787f482906"
+          ],
+          "settings": {
+            "logoes_enable": true,
+            "title": "TOP DCG BRANDS"
+          }
+        },
+        "featured-products-subsection": {
+          "type": "featured-products-subsection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "content_for_index": [
+        "1602769371930",
+        "featured-products",
+        "16031899059d8b3c8c",
+        "16068843214a38c0e0",
+        "1603170761983a54b6",
+        "160317167132a47620"
+      ]
+    },
+    "presets": {
+      "Snowboards": {
+        "checkout_accent_color": "#006eff",
+        "checkout_banner_background_color": "#fff",
+        "checkout_button_color": "#006eff",
+        "checkout_call_to_action_color": "#006eff",
+        "checkout_use_header_image": false,
+        "color_body_bg": "#f7f7f7",
+        "color_body_headings": "#030303",
+        "color_body_text": "#666",
+        "color_button_bg": "#006eff",
+        "color_button_text": "#fff",
+        "color_content_bg": "#fff",
+        "color_footer_bg": "#030303",
+        "color_footer_text": "#fff",
+        "color_header_bg": "#030303",
+        "color_header_links": "#fff",
+        "color_hero_bg": "#006eff",
+        "color_hero_text": "#fff",
+        "color_newsletter_input": "#1a1a1a",
+        "type_accent_family": "unica_one_n4",
+        "type_accent_spacing": true,
+        "type_accent_transform": true,
+        "type_base_family": "karla_n4",
+        "type_base_size": "16px",
+        "type_nav_size": "14px",
+        "type_nav_spacing": true,
+        "type_nav_transform": true,
+        "sections": {
+          "slideshow": {
+            "type": "slideshow",
+            "blocks": {
+              "placeholder-0": {
+                "type": "slide",
+                "settings": {
+                }
+              },
+              "placeholder-1": {
+                "type": "slide",
+                "settings": {
+                }
+              }
+            },
+            "block_order": [
+              "placeholder-0",
+              "placeholder-1"
+            ],
+            "settings": {
+            }
+          },
+          "footer": {
+            "type": "footer",
+            "blocks": {
+              "linklist": {
+                "type": "menu",
+                "settings": {
+                }
+              },
+              "social": {
+                "type": "social",
+                "settings": {
+                }
+              }
+            },
+            "block_order": [
+              "linklist",
+              "social"
+            ],
+            "settings": {
+            }
+          },
+          "featured-collections": {
+            "type": "featured-collections",
+            "blocks": {
+              "featured-collections-0": {
+                "type": "collection",
+                "settings": {
+                }
+              },
+              "featured-collections-1": {
+                "type": "collection",
+                "settings": {
+                }
+              },
+              "featured-collections-2": {
+                "type": "collection",
+                "settings": {
+                }
+              }
+            },
+            "block_order": [
+              "featured-collections-0",
+              "featured-collections-1",
+              "featured-collections-2"
+            ],
+            "settings": {
+            }
+          },
+          "featured-products": {
+            "type": "featured-products",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "image-content": {
+            "type": "image-content",
+            "blocks": {
+              "image-content-0": {
+                "type": "image_block",
+                "settings": {
+                }
+              },
+              "image-content-1": {
+                "type": "text_block",
+                "settings": {
+                }
+              }
+            },
+            "block_order": [
+              "image-content-0",
+              "image-content-1"
+            ],
+            "settings": {
+            }
+          }
+        },
+        "content_for_index": [
+          "slideshow",
+          "featured-collections",
+          "featured-products",
+          "image-content"
+        ]
+      },
+      "Outdoors": {
+        "checkout_accent_color": "#f4743c",
+        "checkout_banner_background_color": "#fff",
+        "checkout_button_color": "#f4743c",
+        "checkout_call_to_action_color": "#f4743c",
+        "checkout_use_header_image": false,
+        "color_body_bg": "#f7f7f7",
+        "color_body_headings": "#1a1a1a",
+        "color_body_text": "#666",
+        "color_button_bg": "#c04f1d",
+        "color_button_text": "#fff",
+        "color_content_bg": "#ffffff",
+        "color_footer_bg": "#213236",
+        "color_footer_text": "#fff",
+        "color_header_bg": "#213236",
+        "color_header_links": "#ffffff",
+        "color_hero_bg": "#f4743c",
+        "color_hero_text": "#fff",
+        "color_newsletter_input": "#425154",
+        "type_accent_family": "lora_n7",
+        "type_accent_spacing": false,
+        "type_accent_transform": false,
+        "type_base_family": "roboto_n4",
+        "type_base_size": "14px",
+        "type_nav_size": "15px",
+        "type_nav_spacing": false,
+        "type_nav_transform": false
+      },
+      "Boxing": {
+        "checkout_accent_color": "#d8232f",
+        "checkout_banner_background_color": "#fff",
+        "checkout_button_color": "#d8232f",
+        "checkout_call_to_action_color": "#d8232f",
+        "checkout_use_header_image": false,
+        "color_body_bg": "#f0f0f0",
+        "color_body_headings": "#222222",
+        "color_body_text": "#666",
+        "color_button_bg": "#d8232f",
+        "color_button_text": "#fff",
+        "color_content_bg": "#ffffff",
+        "color_footer_bg": "#222222",
+        "color_footer_text": "#ffffff",
+        "color_header_bg": "#222222",
+        "color_header_links": "#ffffff",
+        "color_hero_bg": "#d8232f",
+        "color_hero_text": "#fff",
+        "color_newsletter_input": "#303030",
+        "type_accent_family": "open_sans_condensed_n7",
+        "type_accent_spacing": false,
+        "type_accent_transform": true,
+        "type_base_family": "source_sans_pro_n4",
+        "type_base_size": "17px",
+        "type_nav_size": "14px",
+        "type_nav_spacing": true,
+        "type_nav_transform": true
+      }
+    }
+  }
