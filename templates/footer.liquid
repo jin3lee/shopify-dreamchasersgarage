@@ -12,7 +12,10 @@
                     <div class="excellent review-main">
                         <h4>Excellent</h4>
                         {% render "review-stars-count", starCount:5 %}
-                        <p>Based on <a href="#">2,956 reviews</a></p>
+                        <p>
+                          {% assign shopGlobal = shop.metafields.global %} 
+                          <script>console.log({{ shopGlobal.google_reviews.average_rating | json }});</script>
+                          {{ shopGlobal.google_reviews.average_rating }} stars Based on <a href="#">9 Google Reviews</a></p>
                         <div class="trustpilot-review">
                             <svg viewBox="0 0 126 31" xmlns="http://www.w3.org/2000/svg">
                                 <title>Trustpilot</title>
@@ -25,36 +28,9 @@
                 </div>
                 <div class="seven-twelfths">
                     <div class="review-main review-slider">
-                        <div class="slide">
-                          	{% render "review-stars-count", starCount:5 %}
-                            <h5>5 stars!</h5>
-                            <p>Fast shipping, and strongly packaged! Serious business, I'll order again. :)</p>
-                            <p><span>Rom</span></p>
-                        </div>
-                        <div class="slide">
-                            {% render "review-stars-count", starCount:5 %}
-                            <h5>5 stars!</h5>
-                            <p>Fast shipping, and strongly packaged! Serious business, I'll order again. :)</p>
-                            <p><span>Rom</span></p>
-                        </div>
-                        <div class="slide">
-                            {% render "review-stars-count", starCount:5 %}
-                            <h5>5 stars!</h5>
-                            <p>Fast shipping, and strongly packaged! Serious business, I'll order again. :)</p>
-                            <p><span>Rom</span></p>
-                        </div>
-                        <div class="slide">
-                            {% render "review-stars-count", starCount:5 %}
-                            <h5>5 stars!</h5>
-                            <p>Fast shipping, and strongly packaged! Serious business, I'll order again. :)</p>
-                            <p><span>Rom</span></p>
-                        </div>
-                        <div class="slide">
-                            {% render "review-stars-count", starCount:5 %}
-                            <h5>5 stars!</h5>
-                            <p>Fast shipping, and strongly packaged! Serious business, I'll order again. :)</p>
-                            <p><span>Rom</span></p>
-                        </div>
+                        {% for review in shopGlobal.google_reviews.reviews %}
+                          {% render "review-stars-and-comment", starCount: review.starCount, comment:review.comment, name:review.name %}
+                        {% endfor %}
                     </div>
                 </div>
             </div>
