@@ -1251,6 +1251,56 @@
         "type_nav_size": "14px",
         "type_nav_spacing": true,
         "type_nav_transform": true
+      },
+      "Google_Reviews": {
+          "average_rating": 4.9,
+          "reviews": [
+            {
+                "starCount": 5,
+                "comment": "Quick and professional service for my old Mercedes",
+                "name": "Tommy Trieu"
+            },
+            {
+                "starCount": 4,
+                "comment": "Service on time professional staff.",
+                "name": "Leffler Columbus"
+            },
+            {
+                "starCount": 5,
+                "comment": "Tyler is the man. I go to him for pretty much anything I need done on my truck. He installed my lift kit, has done some wiring for me, did a full transmission & radiator install, and has done other fixes for me. He is very smart and knows how to go about fixing or installing just about anything. He's honest about pricing, has great communication during the process of fixing your problem/doing install, doesn't push you to have anything done you don't need/want done, and above all is an awesome guy. I highly recommend going to DCG before going to anyone else!",
+                "name": "Jeremy Wentzel"
+            },
+            {
+                "starCount": 5,
+                "comment": "Tyler at Dream Chasers Garage was fantastic. He did great work and kept great communication throughout the process of my car being fixed. He was very transparent with prices and the process as well. I highly recommend DCG for your automotive repair needs.",
+                "name": "Joseph Cappetto"
+            },
+            {
+                "starCount": 5,
+                "comment": "",
+                "name": "Quinn Castello"
+            },
+            {
+                "starCount": 5,
+                "comment": "",
+                "name": "James"
+            },
+            {
+                "starCount": 5,
+                "comment": "",
+                "name": "Rico"
+            },
+            {
+                "starCount": 5,
+                "comment": "",
+                "name": "Cody Christensen"
+            },
+            {
+                "starCount": 5,
+                "comment": "",
+                "name": "Jeffrey Moses"
+            }
+        ]
       }
     }
   }

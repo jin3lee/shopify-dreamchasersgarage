@@ -1,0 +1,17 @@
+<div class="slide">
+  {% if starCount == 5 %}
+  	{% render "review-stars-count", starCount:5 %}
+  {% elsif starCount == 4 %}
+  	{% render "review-stars-count", starCount:4 %}
+  {% elsif starCount == 3 %}
+  	{% render "review-stars-count", starCount:3 %}
+  {% elsif starCount == 2 %}
+  	{% render "review-stars-count", starCount:2 %}
+  {% elsif starCount == 1 %}
+  	{% render "review-stars-count", starCount:1 %}
+  {% endif %}
+  
+  <h5 style="color:white;">{{ starCount }} stars!</h5>
+  <p>{{ comment }}</p>
+  <p><span>{{ name }}</span></p>
+</div>
