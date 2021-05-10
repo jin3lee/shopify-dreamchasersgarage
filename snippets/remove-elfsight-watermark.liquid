@@ -1,0 +1,40 @@
+<div class="remove-elfsight-watermark-snippet">
+  
+  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+  <div class="elfsight-app-cd44f533-c4bb-48a9-b3fa-1f4717e7f42b"></div>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+    
+      const interval = setInterval(function() {
+        // method to be executed;
+      	var watermark = getElementByInnerText("Free Google Reviews widget");
+        
+        if( watermark ) { 
+          watermark.style.display = "none";
+          clearInterval(interval); 
+        }
+      }, 1000);
+      
+    	
+    });
+    
+    
+    function getElementByInnerText( innerTextAsString ) {
+
+      var aTags = document.getElementsByTagName("a");
+      var searchText = innerTextAsString;
+      var found;
+
+      for (var i = 0; i < aTags.length; i++) {
+        if (aTags[i].textContent == searchText) {
+          console.log("compare: ", aTags[i].textContent);
+          found = aTags[i];
+          break;
+        }
+      }
+      
+      if( found ) { return found; }
+    }
+  </script>
+</div>
