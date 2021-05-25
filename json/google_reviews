@@ -1,0 +1,77 @@
+{
+   "average_rating":4.9,
+   "reviews":[
+      {
+         "reviewId":0,
+         "starCount":5,
+         "comment":"Quick and professional service for my old Mercedes",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"Tommy Trieu"
+      },
+      {
+         "reviewId":1,
+         "starCount":4,
+         "comment":"Service on time professional staff.",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"Leffler Columbus"
+      },
+      {
+         "reviewId":2,
+         "starCount":5,
+         "comment":"Tyler is the man. I go to him for pretty much anything I need done on my truck. He installed my lift kit, has done some wiring for me, did a full transmission & radiator install, and has done other fixes for me. He is very smart and knows how to go about fixing or installing just about anything. He's honest about pricing, has great communication during the process of fixing your problem/doing install, doesn't push you to have anything done you don't need/want done, and above all is an awesome guy. I highly recommend going to DCG before going to anyone else!",
+         "shortComment":"Tyler is the man. I go to him for pretty much anything I need done on my truck. He installed my",
+         "hasShortComment":true,
+         "name":"Jeremy Wentzel"
+      },
+      {
+         "reviewId":3,
+         "starCount":5,
+         "comment":"Tyler at Dream Chasers Garage was fantastic. He did great work and kept great communication throughout the process of my car being fixed. He was very transparent with prices and the process as well. I highly recommend DCG for your automotive repair needs.",
+         "shortComment":"Tyler at Dream Chasers Garage was fantastic. He did great work and kept",
+         "hasShortComment":true,
+         "name":"Joseph Cappetto"
+      },
+      {
+         "reviewId":4,
+         "starCount":5,
+         "comment":"",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"Quinn Castello"
+      },
+      {
+         "reviewId":5,
+         "starCount":5,
+         "comment":"",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"James"
+      },
+      {
+         "reviewId":6,
+         "starCount":5,
+         "comment":"",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"Rico"
+      },
+      {
+         "reviewId":7,
+         "starCount":5,
+         "comment":"",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"Cody Christensen"
+      },
+      {
+         "reviewId":8,
+         "starCount":5,
+         "comment":"",
+         "shortComment":"",
+         "hasShortComment":false,
+         "name":"Jeffrey Moses"
+      }
+   ]
+}

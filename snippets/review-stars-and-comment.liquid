@@ -12,6 +12,31 @@
   {% endif %}
   
   <h5 style="color:white;">{{ starCount }} stars!</h5>
-  <p>{{ comment }}</p>
+  {% if hasShortComment %}
+	<p id="short-comment-id-{{reviewId}}" >{{shortComment}} <a onclick="viewMoreReview({{reviewId}})" >...more</a></p>
+  	<p id="comment-id-{{reviewId}}" style="display:none">{{ comment }}</p>
+  {% else %}
+	<p>{{comment}}</p>
+  {% endif %}
   <p><span>{{ name }}</span></p>
+  <script>
+    function viewMoreReview( reviewId ) {
+      // hide short comment
+      var x = document.getElementById("short-comment-id-" + reviewId);
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+      
+      // show comment
+      var y = document.getElementById("comment-id-" + reviewId);
+      if (y.style.display === "none") {
+        y.style.display = "block";
+      } else {
+        y.style.display = "none";
+      }
+      
+    }
+  </script>
 </div>
